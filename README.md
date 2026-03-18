@@ -1,4 +1,5 @@
-
+This is Project Description about classic AUTOSAR Automation (DCM/DEM).
+not included source code.
 
 
 <img width="1288" height="725" alt="Image" src="https://github.com/user-attachments/assets/304e9ccb-dcf8-4d96-8733-d8f6b4b10f2e" />
