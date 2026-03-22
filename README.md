@@ -1,5 +1,8 @@
-This is Project Description about classic AUTOSAR Automation (DCM/DEM).
-not included source code.
+## This is Project Description about classic AUTOSAR Automation (DCM/DEM).
+## not included source code for confidentiality agreement.
+
+## 프로젝트 기간 : 2025_09_10 ~ 2025_12_10
+## 맡은 역할 : 전 과정
 
 
 <img width="1288" height="725" alt="Image" src="https://github.com/user-attachments/assets/304e9ccb-dcf8-4d96-8733-d8f6b4b10f2e" />
